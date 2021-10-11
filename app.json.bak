@@ -9,7 +9,7 @@
   "repository": "https://github.com/KurrXd",
   "website": "http://bit.ly/Grupgabutbotv1",
   "env": {
-    "kurrxd09": {
+    "API_KEY": {
       "description": "Get the API key here https://api.xteam.xyz",
       "required": true
     },
